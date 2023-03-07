@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @saadsabir
-- 👀 I’m interested in web programming languages (JS,PHP,HTML,CSS)and Object-oriented Programming (C#, TypeScript, PHP, Python) and devops tools
+- 👀 I’m interested in web programming languages (JS,PHP,HTML,CSS) and Object-oriented Programming (C#, TypeScript, PHP, Python) and devops tools
 - 🌱 I’m currently learning NestJS, React and Python
-- 💞️ I’m looking to collaborate on JS, Pyhton
+- 💞️ I’m looking to collaborate on JS, Pyhton and .NET CORE
 - 📫 How to reach me : https://fr.linkedin.com/in/saadsabir
 
 <!---
